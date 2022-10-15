@@ -42,12 +42,12 @@ const Projects = () => {
           <span><a href='https://github.com/Jayabharathy-R/WebScraping-Ecommerce-Backend' target='_blank'  rel="noreferrer">Github Link</a></span>
         </div>
         <div>
-        <a href='https://frolicking-fairy-35c7f5.netlify.app/' target='_blank' rel="noreferrer">
+        <a href='https://unique-kangaroo-8a8a3e.netlify.app/' target='_blank' rel="noreferrer">
         <img src={webscrapping} alt='Web-scrapping'></img><br/>
         </a>
         <p> My Portfolio</p>
 
-          <span><a href='https://github.com/Jayabharathy-R/PettcashManager' target='_blank'  rel="noreferrer">Github Link</a></span>
+          <span><a href='https://github.com/Jayabharathy-R/portfolio_JayabharathyR' target='_blank'  rel="noreferrer">Github Link</a></span>
         </div>
         
         </div>
