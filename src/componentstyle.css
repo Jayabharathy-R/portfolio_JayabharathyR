@@ -176,8 +176,9 @@
         width:100%;
     }
     .Contactcontent{
+        height: 90vh;
         padding-top: 5rem;
-        height: auto;
+        
     }
     .Contactcontent .title{
        display: block;
