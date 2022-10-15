@@ -43,6 +43,7 @@ const Navbar = () => {
                 target="_blank"
                 href={Resume}
                 onClick={handleLinkClick}
+                rel="noreferrer"
               >
                 <Button variant='contained' color='warning'>Resume</Button>
               </a>
